@@ -54,8 +54,27 @@
 * Git & GitHub
 * Postman
 * VS Code
+---
+
+###  Internship Experience
+
+**Full Stack Developer Intern | Hexaware Technologies, Chennai**
+march 2026 - july 2026
+
+**Project: Intern Mentorship & Tracking Platform (MERN Stack)**
+
+* Developed a full-stack internship management platform using MongoDB, Express.js, React.js, and Node.js.
+* Implemented secure JWT-based authentication and Role-Based Access Control (RBAC) for Admin, Mentor, and Intern roles.
+* Built RESTful APIs for user management, mentor assignments, task management, feedback, and progress tracking.
+* Developed role-specific dashboards to manage internship activities and improve mentor-intern collaboration.
+* Designed responsive user interfaces using React.js, HTML, CSS, and JavaScript.
+* Integrated MongoDB for efficient data storage and management.
+* Used Postman for API testing and Git/GitHub for version control.
+
+**Technologies:** MongoDB | Express.js | React.js | Node.js | JavaScript | JWT | REST APIs | Git | GitHub | Postman
 
 ---
+
 
 ###  Featured Projects
 
