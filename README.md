@@ -8,18 +8,18 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-* 🎓 B.E. Computer Science and Engineering (Cybersecurity), 2026 Graduate.
-* 💼 Full Stack Developer Intern at Hexaware Technologies.
-* 🌱 Currently improving my skills in Full Stack Development and Cybersecurity.
-* 💻 Experienced in building web applications using the MERN Stack.
-* 🔐 Interested in Ethical Hacking, Cybersecurity, and AI/ML.
-* 🚀 Passionate about building real-world projects and learning new technologies.
+*  B.E. Computer Science and Engineering (Cybersecurity), 2026 Graduate.
+*  Full Stack Developer Intern at Hexaware Technologies.
+*  Currently improving my skills in Full Stack Development and Cybersecurity.
+*  Experienced in building web applications using the MERN Stack.
+*  Interested in Ethical Hacking, Cybersecurity, and AI/ML.
+*  Passionate about building real-world projects and learning new technologies.
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 **Programming Languages**
 
@@ -57,7 +57,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **1. Intern Mentorship & Tracking Platform**
 
@@ -78,7 +78,7 @@
 
 ---
 
-### 🏆 Certifications
+###  Certifications
 
 * Cybersecurity Fundamentals – IBM SkillsBuild
 * Beginners Guide to Ethical Hacking – Simplilearn
@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishnumohan13&show_icons=true&theme=tokyonight" height="165">
@@ -96,7 +96,7 @@
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/vishnu-mohan-097bab291/
 * GitHub: https://github.com/vishnumohan13
@@ -104,4 +104,4 @@
 
 ---
 
-<h3 align="center">💡 Learn | Build | Innovate | Grow 🚀</h3>
+<h3 align="center"> Learn | Build | Innovate | Grow </h3>
